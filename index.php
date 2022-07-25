@@ -110,7 +110,7 @@ h3{
 							</div>
 						</div>
 						<div class="col-md-12" id="copyright">
-							&copy; Mustansiriyah University Alright reserved
+							&copy; Mustansiriyah University All right reserved
 						</div>
 						
 					</div>
